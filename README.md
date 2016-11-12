@@ -8,7 +8,7 @@ All students are encouraged to complete a notebook for the [examples](https://gi
 
 **Session 1**
 
-* Demo: [SVM GUI](https://github.com/georgetown-analytics/machine-learning/tree/master/code) (currently needs to be run in Python 2.7)
+* Demo: [SVM GUI](https://github.com/georgetown-analytics/machine-learning/tree/master/code) svm_gui.py needs to be run in Python 2.7, svm_gui_py3.py is Python 3 compatible. Python 3 users running OS X 10.8 later will need to install [XQuartz](https://www.xquartz.org/).
 
 **Session 2**
 
