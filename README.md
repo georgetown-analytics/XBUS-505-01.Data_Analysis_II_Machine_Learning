@@ -12,6 +12,6 @@ All students are encouraged to complete a notebook for the [examples](https://gi
 
 **Session 2**
 
-* Demo: Product Classification
+* Demo: [Tour de Scikit-learn](https://github.com/georgetown-analytics/machine-learning/tree/master/notebook) (This notebook has been updated to be compatible with Python 3.)
 * Workshop: [Machine Learning from Disaster](https://github.com/georgetown-analytics/XBUS-503-01.Data_Ingestion_and_Wrangling/tree/master/titanic)
 * Workshop: Use the ML repository to build a model. Using the [Wheat Classification notebook](https://github.com/georgetown-analytics/machine-learning/tree/master/notebook) as a model, select a data set from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) and work through machine learning on a data set. You are HIGHLY ENCOURAGED to work through this and submit your work as outlined above. Your ability to understand this exercise and work through it will provide valuable knowledge for your Capstone project. A data set for Classification or Regression with at least 10 attributes is recommended.
