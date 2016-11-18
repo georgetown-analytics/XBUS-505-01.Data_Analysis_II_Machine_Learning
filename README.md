@@ -15,3 +15,13 @@ All students are encouraged to complete a notebook for the [examples](https://gi
 * Demo: [Tour de Scikit-learn](https://github.com/georgetown-analytics/machine-learning/tree/master/notebook) (This notebook has been updated to be compatible with Python 3.)
 * Workshop: [Machine Learning from Disaster](https://github.com/georgetown-analytics/XBUS-503-01.Data_Ingestion_and_Wrangling/tree/master/titanic)
 * Workshop: Use the ML repository to build a model. Using the [Wheat Classification notebook](https://github.com/georgetown-analytics/machine-learning/tree/master/notebook) as a model, select a data set from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) and work through machine learning on a data set. You are HIGHLY ENCOURAGED to work through this and submit your work as outlined above. Your ability to understand this exercise and work through it will provide valuable knowledge for your Capstone project. A data set for Classification or Regression with at least 10 attributes is recommended.
+
+**Session 3**
+
+* Demo: [Building a Classifier from Cenus Data](https://github.com/nd1/machine-learning/blob/master/examples/bbengfort/census/census.ipynb)
+
+**Session 4**
+
+* Workshop: Regression techniques with energy efficiency data, [Energy Efficiency Notebook](https://github.com/georgetown-analytics/machine-learning/blob/master/notebook/energy_efficiency.ipynb) and [Small app to compute energy efficiency of a house](https://github.com/georgetown-analytics/machine-learning/blob/master/code/energy.py)
+* Workshop: [Clustering Flag Data](https://github.com/georgetown-analytics/machine-learning/blob/master/notebook/Clustering%20Flag%20Data.ipynb)
+* Extra: if you would like another clustering example, see [Clustering NIST headlines and descriptions](https://github.com/georgetown-analytics/machine-learning/blob/master/notebook/nist_clustering.ipynb)
